@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpRegexTester", "CSharpRegexTester\CSharpRegexTester.csproj", "{7DA30DE8-FE69-4654-B154-F3CAAA34A6CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{41BA503A-B00F-49F0-ABA4-0E4DCDBE92C7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA30DE8-FE69-4654-B154-F3CAAA34A6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA30DE8-FE69-4654-B154-F3CAAA34A6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA30DE8-FE69-4654-B154-F3CAAA34A6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA30DE8-FE69-4654-B154-F3CAAA34A6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB4B565-0CB1-4D6E-9C03-66297217116A}
+	EndGlobalSection
+EndGlobal
